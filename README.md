@@ -1,2 +1,2 @@
 # Compressor
-VCA-based dynamic range compressor
+A high quality VCA-based dynamic range compressor.
