@@ -4,3 +4,5 @@ A high-performance VCA-based dynamic range compressor that offers control over a
 ![compressor](Images/compressor_small.jpg)
 
 [Circuit schematic for this project](Schematic/VCA_Compressor_Schematic.pdf)
+
+[Audio files demonstrating the sound of this compressor](Audio Demos)
